@@ -1,0 +1,7 @@
+grep is used to find strings within a file, files or folder.
+grep stands for global regular expression p...?
+grep XXX will search for the string XXX
+grep XXX* will search for a string starting XXX
+grep *XXX will search for a string ending XXX
+grep *XXX* will search for a string containing XXX
+grep *.txt will search for all .txt files

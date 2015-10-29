@@ -1,0 +1,5 @@
+mv is a shell command that is used to move a file or folder from one location to another. 
+When in a particular directory, mv is called on a file, and then the desired location.
+when in SomeDirectory:
+mv someFile home\workspace\SomeOtherDirectory - moves someFile to SomeOtherDirectory
+mv can also rename a file. mv someFile someOtherFile.

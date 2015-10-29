@@ -1,0 +1,5 @@
+wc calls word count. 
+calling it on wc on a folder returns the amount of items contained in it.
+wc -w returns the word count of a file
+wc -l returns the line count of a file
+wc -c returns the byte size of a file
